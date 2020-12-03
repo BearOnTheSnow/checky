@@ -3,7 +3,7 @@
 ###### Copyright &copy; Checky. All rights reserved ######
 ---
 
-> Free as in "free speech". 
+> Free as in "free speech". <br />
 > Free as in "freedom".
 
 --- LICENSE ---
