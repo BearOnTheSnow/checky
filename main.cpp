@@ -9,7 +9,7 @@ easily. Compile this file to have an executable. */
 #include <string.h>
 #include <stdio.h>
 #include <algorithm>
-#include <conio.h> //This is only for Windows systems. Not compulsory.
+#include <conio.h> 
 #include <stdlib.h>
 using namespace std;
 //declaring variables
@@ -44,7 +44,7 @@ int main(){
     cout << "\n The checksum you got was \n" << " " <<  y;                //Will cout the lowercased checksum
                                                         
     check();
-    getch();  //if not on windows, change it to return 0;
-    system("cls");  //if on linux change the cls to clear;
+    getch();  
+    system("cls");  
 	} 
 }
