@@ -46,17 +46,17 @@ int main() {
 
         check();
         cout << "Process finished" << endl << endl << endl;
-        //OS specific commands
+//OS specific commands
         //For Windows
 #ifdef _WIN32
         system("pause");
         _getch;
         system("cls");
 #endif
-        //For Linux
-#ifdef _linux
+         //For Linux Systems
+#ifdef __linux__
         cin.get();
-        _getch;
+        getch();
         system("clear");
 #endif
     }
