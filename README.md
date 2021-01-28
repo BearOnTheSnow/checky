@@ -7,5 +7,5 @@ Checksums are often long to read and even harder to compare. With Checky you can
 The programme converts your input to lowercase and compare the long checksums. It will output whether the file is damaged or not. Simple as that.<br/>
 <h4> What to do? </h4>
 Compile the above file to get an executable!
-<p>Checky was made in a Mingw and Dev C++ environment on Windows and g++ on Ubuntu(GNU/Linux). The above file can be compiled by installing Mingw on Windows systems and build-essentials on Linux distros.</p>
+<p>Checky was made in a Visual Studio environment on Windows and g++ on Ubuntu(GNU/Linux). The above file can be compiled by installing Mingw on Windows systems and build-essentials on Linux distros.</p>
 <hr>
