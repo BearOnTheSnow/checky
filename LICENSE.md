@@ -10,7 +10,7 @@
 #### Preamble ####
 Please review the following license terms before using the software.
 Before using Checky ("the software") you must agree to the license terms mentioned below. By using  this software, it is assumed that you have read and understood the following license terms. We do not take away the freedom of our users to use and modify the software. The software is distributed free of charge for anyone to use and modify for their own purposes(including commercial and personal). The source code is availible on Github.
-https://github.com/Templatta/checky-for-windows/
+[https://github.com/Templatta/checky-for-windows/](https://bearonthesnow.github.io/checky-website/)
 #### License Terms ####
 Your use of "Checky" or "this software" is subject to the following terms:-
 - By using this software you agree to be bound the whole license and it terms. If a part of the license is incorrect or tampered with, the rest of the license is not rendered invalid. The rest of the license is still in force.
