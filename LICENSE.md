@@ -9,7 +9,7 @@
 --- LICENSE ---
 #### Preamble ####
 Please review the following license terms before using the software.
-Before using Checky ("the software") you must agree to the license terms mentioned below. By using  this software, it is assumed that you have read and understood the following license terms. We do not take away the freedom of our users to use and modify the software. The software is distributed free of charge for anyone to use and modify for their own purposes(including commercial and personal). The source code is availible on Github
+Before using Checky ("the software") you must agree to the license terms mentioned below. By using  this software, it is assumed that you have read and understood the following license terms. We do not take away the freedom of our users to use and modify the software. The software is distributed free of charge for anyone to use and modify for their own purposes(including commercial and personal). The source code is available on Github
 [here](https://bearonthesnow.github.io/checky-website/).
 #### License Terms ####
 Your use of "Checky" or "this software" is subject to the following terms:-
@@ -31,4 +31,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, IN THE HOPE THAT IT MAY BE USEFUL, WITHOUT
 > sharing is easy.                                  
 >          - Richard Stallman
 ---
-Thanks for reading the license. We hope you enjoy using Checky as much we enjoyed coding it...
+Thanks for reading the license.
